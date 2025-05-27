@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Aldebaran-Sov
+/src/backend/database.py      @Aldebaran-Sov
+/src/backend/routers/auth.py  @Aldebaran-Sov
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Aldebaran-Sov
